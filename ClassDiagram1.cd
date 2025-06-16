@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Курсовая_работа_за_3_семестр.Client">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAIAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_за_3_семестр.LegalEntity">
+    <Position X="1.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_за_3_семестр.Individual">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_за_3_семестр.Contract">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAADAQAAAABwAAAAgAAAABCggAAAEAAIAQAAAEBAAAU=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_за_3_семестр.Payment">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAQAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_за_3_семестр.ClientService">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAABAAAAAQAAEAAAAAAAAABAAQAAAAA=</HashCode>
+      <FileName>ClientSetvice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_за_3_семестр.ContractService">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQABAAAAABAAAAEACAAAAAgAAAAAAgAAAAgAAAA=</HashCode>
+      <FileName>ContractService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_за_3_семестр.DataManager&lt;T&gt;">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAgAACAAAQAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_за_3_семестр.EmployeeService">
+    <Position X="8" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAABAAAAAQABCAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>EmployeeService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_за_3_семестр.Employee">
+    <Position X="6.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAAAAAIAIAgAAABEBAAAgAMAAgCAAAAAAAAgAA=</HashCode>
+      <FileName>Empoyee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_за_3_семестр.PositionSalaryMap">
+    <Position X="11" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Empoyee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_за_3_семестр.Weapon">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAA=</HashCode>
+      <FileName>Empoyee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_за_3_семестр.SpecialEquipmentList">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Empoyee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_за_3_семестр.Schedule">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Empoyee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_за_3_семестр.Shift">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAABAAAAAAABAQAAAAAAAAA=</HashCode>
+      <FileName>Empoyee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_за_3_семестр.Program">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_за_3_семестр.ReportService">
+    <Position X="12.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAgAAAABAAAAAACAAAAAAAAAAAAAAAACAAQAA=</HashCode>
+      <FileName>ReportService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_за_3_семестр.ScheduleService">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAABACAAAAAAAAAAgAABAACAAAAAAAAAA=</HashCode>
+      <FileName>ScheduleService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_за_3_семестр.UIHelpers">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAABAAAAAAAAAACA=</HashCode>
+      <FileName>UIHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
